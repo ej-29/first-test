@@ -7,6 +7,7 @@ import numpy as np
 
 xp = np.array([0,5])
 yp = np.array([0,300])
+print("A")
 #print(xp)
 #print(yp)
 
